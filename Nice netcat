@@ -1,0 +1,5 @@
+//There is a nice program that you can talk to by using this command in a shell: $ nc mercury.picoctf.net 22902, but it doesn't speak English...
+
+we have to first connect the given address and the port : $ nc mercury.picoctf.net 22902
+This will give us numbers , which are ascii numbers and can be converted into normal text by using a ascii convertor.
+Flag obtained after converting was:picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}
