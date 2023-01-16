@@ -1,0 +1,7 @@
+//Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
+
+First we will copy the link address and use wget to download the file: wget wget https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm
+The file name shown was warm and i'll use the strings command to access the readable file of warm.(strings warm)
+Then we will use the grep command to filter out : strings warm|grep -i picoCTF 
+using this, will give us all the readable file starting with picoCTF.
+Flag:picoCTF{b1scu1ts_4nd_gr4vy_18788aaa}
