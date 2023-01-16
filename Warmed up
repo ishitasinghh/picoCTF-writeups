@@ -1,0 +1,2 @@
+//What is 0x3D (base 16) in decimal (base 10)?
+We can directly convert the given base 16 value to base 10 using a convertor, and the flag obtained is picoCTF{61}
