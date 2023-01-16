@@ -1,0 +1,4 @@
+//If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
+
+We can directly convert the given hexadecimal value to ascii using a convertor.
+The ascii value of 0x70 is p and the flag thus obtained is picoCTF{p}.
