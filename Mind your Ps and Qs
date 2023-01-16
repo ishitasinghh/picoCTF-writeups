@@ -1,0 +1,4 @@
+//In RSA, a small e value can be problematic, but what about N? Can you decrypt this? values
+Open the file in your notepad and get the values of c,n,e.
+Then use a RSA cipher to convert it to normal text.
+picoCTF{sma11_N_n0_g0od_23540368}
