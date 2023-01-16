@@ -1,3 +1,0 @@
-//If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
- Here we will use the hexdecimal to ascii convertor , and the ascii letter for  0x70 is p.
- so the flag is picoCTF{p}.
